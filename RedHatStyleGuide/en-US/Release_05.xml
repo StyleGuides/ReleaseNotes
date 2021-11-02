@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Release_Notes.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Red_Hat_Technical_Writing_Style_Guide-Release_Notes-Release_5">
+	<title>Release 5</title>
+	 <para>
+		Each chapter is a major release.
+	</para>
+	 <section id="sect-Red_Hat_Technical_Writing_Style_Guide-Release_Notes-Release_5-Release_5.1">
+		<title>Release 5.1</title>
+		 <para>
+			This is a test paragraph in a section
+		</para>
+
+	</section>
+	 <section id="sect-Red_Hat_Technical_Writing_Style_Guide-Release_Notes-Release_5-Release_5.0">
+		<title>Release 5.0</title>
+		 <para>
+			This is a test paragraph in Section 2 
+			<orderedlist>
+				<listitem>
+					<para>
+						This is a test listitem.
+					</para>
+
+				</listitem>
+
+			</orderedlist>
+
+		</para>
+
+	</section>
+</chapter>
+

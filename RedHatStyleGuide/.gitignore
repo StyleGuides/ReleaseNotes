@@ -1,0 +1,4 @@
+# Don't commit the generated files in tmp
+tmp/
+
+fontawesome*
