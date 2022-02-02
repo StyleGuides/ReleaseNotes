@@ -5,12 +5,9 @@
 ]>
 <chapter id="chap-Red_Hat_Technical_Writing_Style_Guide-Release_Notes-Release_5">
 	<title>Release 5</title>
-	 <para>
-		Each chapter is a major release.
-	</para>
 	 <section id="sect-Red_Hat_Technical_Writing_Style_Guide-Release_Notes-Release_5-Release_5.1">
-		<title>Release 5.1, January 2022</title>
-			<para>Minor update to address some reported issues:</para>
+		<title>Release 5.1</title>
+			<para>Minor update in January 2022 to address some reported issues:</para>
 			<para>Accessing IBM Style online.</para>
 			<para>Updated guidance for long commands.</para>
 			<para>Updated guidance for referring to object names.</para>
@@ -26,8 +23,8 @@
 
 	</section>
 	 <section id="sect-Red_Hat_Technical_Writing_Style_Guide-Release_Notes-Release_5-Release_5.0">
-		<title>Release 5.0, July 2021</title>
-			<para>Major update to align with some recent changes in IBM Style:</para>
+		<title>Release 5.0</title>
+			<para>Major update in July 2021 to align with some recent changes in IBM Style:</para>
 			<para>Sentence case is required for captions, legends, and diagram labels.</para>
 			<para>Punctuation: Added sections on referring to punctuation marks and names of punctuation marks and special characters.</para>
 			<para>Rename Chapter 4 to "Choosing Appropriate Language": expand scope beyond slang and jargon, to cover inclusive language; avoiding ambiguities (moved from Chapter 2 and added more categories); dates and times (AM and PM are now written in uppercase without periods); and numbers.</para>
