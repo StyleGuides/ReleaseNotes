@@ -3,8 +3,12 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Release_Notes.ent">
 %BOOK_ENTITIES;
 ]>
+
 <chapter id="chap-Red_Hat_Technical_Writing_Style_Guide-Release_Notes-Release_5">
 	<title>Release 5</title>
+	 <para>
+		Release notes for 5.1 releases:
+	</para>
 	 <section id="sect-Red_Hat_Technical_Writing_Style_Guide-Release_Notes-Release_5-Release_5.1">
 		<title>Release 5.1</title>
 			<para>Minor update in January 2022 to address some reported issues:</para>
@@ -32,5 +36,11 @@
 			<para>Minor edits so the guide itself conforms with its own advice.</para>
 
 	</section>
+	 <section id="sect-Red_Hat_Technical_Writing_Style_Guide-Older_Release_Notes">
+		<title>Earlier Releases than 5.0</title>
+			<para>For change information for earlier releases than 5.0, see the Git commit history at https://github.com/StyleGuides/WritingStyleGuide/commits/dev.</para>
+	
+	</section>
 
 </chapter>
+
