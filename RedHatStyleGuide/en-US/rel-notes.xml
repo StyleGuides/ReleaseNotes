@@ -7,7 +7,7 @@
 <chapter id="chap-Red_Hat_Technical_Writing_Style_Guide-Release_Notes-Release_5">
 	<title>Release 5</title>
 	 <para>
-		Release notes for 5.1 releases:
+		Release notes for 5.x releases:
 	</para>
 	 <section id="sect-Red_Hat_Technical_Writing_Style_Guide-Release_Notes-Release_5-Release_5.1">
 		<title>Release 5.1</title>
@@ -37,8 +37,8 @@
 
 	</section>
 	 <section id="sect-Red_Hat_Technical_Writing_Style_Guide-Older_Release_Notes">
-		<title>Earlier Releases than 5.0</title>
-			<para>For change information for earlier releases than 5.0, see the Git commit history at https://github.com/StyleGuides/WritingStyleGuide/commits/dev.</para>
+		<title>Releases Before 5.0</title>
+			<para>For change information for releases before than 5.0, see the Git commit history at https://github.com/StyleGuides/WritingStyleGuide/commits/dev.</para>
 	
 	</section>
 
