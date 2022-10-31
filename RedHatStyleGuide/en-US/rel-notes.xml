@@ -70,4 +70,10 @@
 
 	</section>
 
+	 <section id="sect-Red_Hat_Technical_Writing_Style_Guide-Older_Release_Notes">
+		<title>Releases Before 5.0</title>
+			<para>For change information for releases before than 5.0, see the Git commit history at https://github.com/StyleGuides/WritingStyleGuide/commits/dev.</para>
+	
+	</section>
+
 </chapter>
