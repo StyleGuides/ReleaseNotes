@@ -5,6 +5,29 @@
 ]>
 <chapter id="chap-Red_Hat_Technical_Writing_Style_Guide-Release_Notes-Release_6">
 	<title>Release Notes</title>
+	 <section id="sect-Red_Hat_Technical_Writing_Style_Guide-Release_Notes-Release_6-Release_6.1">
+		<title>Release 6.1</title>
+			<para>Update in August 2023 to provide added or updated guidance and to address reported issues:</para>
+			<para>Updated audience information for this guide.</para>
+			<para>Updated guidance about writing titles.</para>
+			<para>Updated guidance on continuation prompts.</para>
+            <para>Updated using realistic usernames.</para>
+            <para>Added guidance on omitting part of an output.</para>
+            <para>Added guidance about possessives with product names and abbreviations.</para>
+            <para>Various additions to the Punctuation section.</para>
+            <para>Restructured "Using Abbreviations, Acronyms, Initialisms, and Special Characters Correctly".</para>
+            <para>Rewrote "The Repeatability Test" section and renamed it to "Repetition".</para>
+            <para>Changed "Homographic Verbs" subsection title to "Avoid May and Should".</para>
+            <para>Inclusive naming of default branch.</para>
+            <para>Updated IBM Style access information.</para>
+            <para>Adjusted sentence length guideline.</para>
+            <para>Removed some references that were specific to DocBook.</para>
+            <para>Use "team" or "group" instead of "squad".</para>
+            <para>New or updated usage entries: application velocity, key ring, Metal-as-a-Service, OTP, smart card, systemwide, virtualized.</para>
+            <para>Various other fixes.</para>						
+
+	</section>
+
 	 <section id="sect-Red_Hat_Technical_Writing_Style_Guide-Release_Notes-Release_6-Release_6.0">
 		<title>Release 6.0</title>
 			<para>Major update in December 2022 to add further style and grammar guidance:</para>
@@ -18,7 +41,7 @@
 			<para>Avoid stating that something is easy to do or to use.</para>	
 			<para>Avoid first person.</para>		
 			<para>Use "following" with a noun.</para>		
-			<para>Avoid hyphenating with an "-ly" prefix: added an example.</para>		
+			<para>Avoid hyphenating with an "-ly" suffix: added an example.</para>		
 			<para>If-Then statements.</para>					
 			<para>Make a full lead-in sentence to introduce a list.</para>				
 			<para>Making list items parallel.</para>
